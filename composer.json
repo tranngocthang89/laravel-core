@@ -1,10 +1,10 @@
 {
-    "name": "bagisto/laravel-core",
+    "name": "tranngocthang89/laravel-core",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jitendra Singh",
-            "email": "jitendra@webkul.com"
+            "name": "Tran Ngoc",
+            "email": "tranngocthang89@gmail.com"
         }
     ],
     "require": {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Core\\": "src/"
+            "Core\\": "packages/Core/src/"
         }
     },
     "extra": {
